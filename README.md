@@ -1,4 +1,4 @@
-# Weather App
+# Weather Website
 <h3>You can type in the Country,City you want to know its weather and get back information using Weather API = ) </h3>
 <h2></h2>
 <img width=500 height=500 src="https://user-images.githubusercontent.com/82037460/188455019-963a31c5-1416-41b6-9324-a01678ef3168.PNG"</img>
